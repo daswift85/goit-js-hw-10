@@ -1,5 +1,3 @@
-import { debounce } from 'lodash.debounce';
-
 const BASE_URL = 'https://restcountries.com/v3.1/name/';
 
 export async function fetchCountries(name) {
