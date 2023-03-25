@@ -1,11 +1,42 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Codespaces
+Marketplace
+Explore
+ 
+@daswift85 
+daswift85
+/
+goit-js-hw-10
+Public
+Cannot fork because you own this repository and are not a member of any organizations.
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+goit-js-hw-10/package.json
+@daswift85
+daswift85 1
+Latest commit 0824f1b 1 hour ago
+ History
+ 1 contributor
+Executable File  32 lines (32 sloc)  916 Bytes
+
 {
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://daswift85.github.io/js-hw-09",
+  "homepage": "https://daswift85.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js-hw-09/"
+    "build": "parcel build src/*.html --public-url /goit-js-hw-10/"
   },
   "repository": {
     "type": "git",
@@ -18,7 +49,7 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "flatpickr": "^4.6.13",
+    "lodash.debounce": "^4.0.8",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6"
   },
